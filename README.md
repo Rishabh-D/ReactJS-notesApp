@@ -11,4 +11,7 @@ find the list of features to be added :
 Try it out!!
 
 
+![](initialStage1.png)
+![](initialStage2.png)
+
 
